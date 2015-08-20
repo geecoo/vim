@@ -581,7 +581,7 @@ let Tlist_WinWidth = 36
 
 
 let g:NERDTreeDirArrows=0
-
+let g:NERDTreeShowHidden=1
 
 """"""""""""""""""""""""""""""
 " BufExplorer
