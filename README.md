@@ -1,2 +1,8 @@
 # vim
-personal vim configuration
+
+## personal vim configuratoin
+
+
+
+MIT license
+
